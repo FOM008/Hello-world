@@ -1,2 +1,1 @@
-# Hello-world
-Myf first github repo
+This repo helps us learn about the git
